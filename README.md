@@ -1,5 +1,11 @@
 ### Hi there, my name is Alberto Rivas 👋
 
+### Skills:
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Koltin](https://img.shields.io/badge/Kotlin-FF9933?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6666?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-0080FF?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 <!--
 **albrivas/albrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
